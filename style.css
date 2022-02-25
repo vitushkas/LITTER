@@ -112,10 +112,15 @@ body {
 
 .skill-html {
   background-image: url("img/icon-html.svg");
+  background-repeat: no-repeat;
+  padding-left:25px;
+  
 }
 
 .skill-css {
   background-image: url("img/icon-css.svg");
+  background-repeat: no-repeat;
+  padding-left:25px;
 }
 
 .level {
